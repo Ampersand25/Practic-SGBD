@@ -1,0 +1,11 @@
+C:\Users\crist\source\repos\SucuriNaturaleWindowsFormsApplication\bin\Debug\BrioseWindowsFormsApplication.exe.config
+C:\Users\crist\source\repos\SucuriNaturaleWindowsFormsApplication\bin\Debug\BrioseWindowsFormsApplication.exe
+C:\Users\crist\source\repos\SucuriNaturaleWindowsFormsApplication\bin\Debug\BrioseWindowsFormsApplication.pdb
+C:\Users\crist\source\repos\SucuriNaturaleWindowsFormsApplication\obj\Debug\SucuriNaturaleWindowsFormsApplication.csproj.AssemblyReference.cache
+C:\Users\crist\source\repos\SucuriNaturaleWindowsFormsApplication\obj\Debug\SucuriNaturaleWindowsFormsApplication.csproj.SuggestedBindingRedirects.cache
+C:\Users\crist\source\repos\SucuriNaturaleWindowsFormsApplication\obj\Debug\SucuriNaturaleWindowsFormsApplication.SucuriNaturaleMasterDetailForm.resources
+C:\Users\crist\source\repos\SucuriNaturaleWindowsFormsApplication\obj\Debug\BrioseWindowsFormsApplication.Properties.Resources.resources
+C:\Users\crist\source\repos\SucuriNaturaleWindowsFormsApplication\obj\Debug\SucuriNaturaleWindowsFormsApplication.csproj.GenerateResource.cache
+C:\Users\crist\source\repos\SucuriNaturaleWindowsFormsApplication\obj\Debug\SucuriNaturaleWindowsFormsApplication.csproj.CoreCompileInputs.cache
+C:\Users\crist\source\repos\SucuriNaturaleWindowsFormsApplication\obj\Debug\BrioseWindowsFormsApplication.exe
+C:\Users\crist\source\repos\SucuriNaturaleWindowsFormsApplication\obj\Debug\BrioseWindowsFormsApplication.pdb
